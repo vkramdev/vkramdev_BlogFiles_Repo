@@ -9,6 +9,10 @@ Resources:
 
 Others: 
 
+Imp:
+John Krohn: 
+https://www.jonkrohn.com/posts/2020/4/14/18-hours-of-brand-new-video-tutorials-introducing-all-of-deep-learning
+
 1 : https://jeremykun.com/
 
 2. Fall 2015 STAT 946: Deep Learning: https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE
@@ -25,12 +29,23 @@ Others:
 6. Interactive AI journal:  https://distill.pub/
 
 7. @twitter: https://twitter.com/omarsar0/status/1214547402838986754
+             Chip Huyen: https://twitter.com/chipro/status/1157772112876060672
 
 8. https://web.stanford.edu/~jurafsky/slp3/
 
 9. https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf
 
 10. http://kagglesolutions.com/
+
+11. https://www.youtube.com/watch?v=7wy0jqJU8ts&feature=youtu.be
+
+12. https://cbmm.mit.edu/video/getting-started-tensorflow-20-tutorial
+
+13. https://pjreddie.com/courses/computer-vision/
+
+14. https://inst.eecs.berkeley.edu/~cs188/fa18/
+
+15. https://sites.google.com/view/berkeley-cs294-158-sp20/home
 
 10. Blogs:
 
@@ -41,6 +56,8 @@ Python:
 1.David Beazley(@dabeaz) Practical Python Programming: https://dabeaz-course.github.io/practical-python/
 
 2. Python Data Science Handbook(Jake Vanderplas): https://jakevdp.github.io/PythonDataScienceHandbook/
+
+3. https://code-love.com/2019/06/03/49-essential-resources-to-learn-python/
 
 ML models to productions:
 
@@ -57,7 +74,7 @@ Machine Learning Tutorials and courses:
 2.Caltech CMS 165 Lectures: Foundations of Machine Learning: https://www.youtube.com/playlist?list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp
 Course website: http://tensorlab.cms.caltech.edu/users/anima/cms165-2019.html
 
-3.
+3. Andreas Muller Applied ML: https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
 
 Deep Learning Tutorials and courses:
 
@@ -83,6 +100,8 @@ Transcript: http://bit.ly/pDL-en-05
 8. FastAi: https://www.fast.ai/
 
 9. Dive into Deep Learning(Book ): https://d2l.ai/
+
+10. http://introtodeeplearning.com/
 
 NLP:
 
