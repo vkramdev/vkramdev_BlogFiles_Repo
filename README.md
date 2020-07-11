@@ -10,8 +10,7 @@ Resources:
 Others: 
 
 Imp:
-John Krohn: 
-https://www.jonkrohn.com/posts/2020/4/14/18-hours-of-brand-new-video-tutorials-introducing-all-of-deep-learning
+John Krohn: https://www.jonkrohn.com/posts/2020/4/14/18-hours-of-brand-new-video-tutorials-introducing-all-of-deep-learning
 
 1 : https://jeremykun.com/
 
@@ -30,6 +29,14 @@ https://www.jonkrohn.com/posts/2020/4/14/18-hours-of-brand-new-video-tutorials-i
 
 7. @twitter: https://twitter.com/omarsar0/status/1214547402838986754
              Chip Huyen: https://twitter.com/chipro/status/1157772112876060672
+             https://twitter.com/sannykimchi/status/1138103256792494085
+             Rachel : https://twitter.com/math_rachel/status/1125545968730918912
+             Jalammar :https://jalammar.github.io/
+             Sebastian Ruder : https://ruder.io/
+             Andrej Karpathy : https://karpathy.github.io/
+   Resource Meta List:
+   
+   https://sgfin.github.io/learning-resources/
 
 8. https://web.stanford.edu/~jurafsky/slp3/
 
