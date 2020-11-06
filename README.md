@@ -1,7 +1,7 @@
 # vkramdev.github.io
-Vikram's Blog
+List of Open Source Resources for ML/DL
 
-Listing of repository for the resources i find interesting and useful in the path to learn and implement Machine Learning. This is in the process of being built.
+Listing of repository for the resources i find interesting and useful in the path to learn and implement Machine Learning. This is in  process.
 
 I plan to update this on weekends. 
 
