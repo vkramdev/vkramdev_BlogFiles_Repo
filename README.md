@@ -124,6 +124,10 @@ NLP Blogs:
   5.1 https://nlpoverview.com/
   5.2 https://research.utwente.nl/en/publications/text-as-social-and-cultural-data-a-computational-perspective-on-v
 
+ML/DL in Production:
+
+MadeWithML : https://github.com/madewithml/applied-ml-in-production
+
 Free eBooks for ML/DL:
 
 1. https://pytorch.org/deep-learning-with-pytorch : pytorch is giving free ebook.Fill in the form and receive a free copy.
