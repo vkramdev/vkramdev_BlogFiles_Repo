@@ -134,8 +134,6 @@ Free eBooks for ML/DL:
 
 ML/DL papers:
 
-Spark :
+Spark:
 
 Spark+AI 2020:https://databricks.com/sparkaisummit/north-america-2020/agenda
-
-
